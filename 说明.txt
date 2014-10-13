@@ -1,0 +1,13 @@
+1.程序主入口：
+ src/com/wisdomgarden/Client.java
+  用户可以根据控制台提示，输入信息
+  
+2.单元测试入口：
+ test/com/wisdomgarden/domain/OrderCaseATest.java
+ test/com/wisdomgarden/domain/OrderCaseBTest.java
+ 注：OrderCaseATest.java中有程序执行的相关注释
+ 
+3.ant构建：
+ build.xml
+ 
+
